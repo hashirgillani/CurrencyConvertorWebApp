@@ -47,6 +47,6 @@ It fetches live exchange rates from an API, supports swap functionality between 
 ## Open your browser and go to:
 
 
-  [npm run dev](http://localhost:5173)
+  (http://localhost:5173)
 
 
